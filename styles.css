@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+div{
+    margin: 5% 15%;
+    text-align: center;
+}
+
+h1{
+    padding-top: 4%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin: 5%;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+li a{
+    color: #000;
+    text-decoration: none;
+}
